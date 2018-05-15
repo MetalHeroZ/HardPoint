@@ -1,0 +1,8 @@
+{
+  "name": "hardpoint",
+  "app_id": "f1ce9c1b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
